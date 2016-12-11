@@ -1165,7 +1165,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6ef5ff;
+  background: #ff49ff;
 }
 .sidebar-nav {
   margin: 0;
@@ -2266,4 +2266,7 @@ blockquote {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   padding: 2px 20px;
+}
+h2 {
+  margin-top: 60px;
 }
